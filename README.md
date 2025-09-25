@@ -386,9 +386,9 @@ This project was developed as part of Java Programming coursework, demonstrating
 
 ---
 
-**Author**: Priyanshu vashisth
-**Reg. No.**: 24BCE10360
+**Author**: Jagrati Sharma 
+**Reg. No.**: 24BCE11027
 **Course**: Programming in Java  
 **Institution**: Vellore Institute of Technology, Bhopal
-**Date**: 05-09-2025
+**Date**: 25-09-2025
 **Version**: 1.0
